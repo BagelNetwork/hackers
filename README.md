@@ -1,17 +1,15 @@
-# Cloud Computing Tutorials
+# Bagel Finetuning Deployment Tutorials
 
 This repository contains tutorials for various cloud computing platforms and containerization technologies. Each tutorial provides step-by-step instructions to help you get started with the respective technology.
 
 ## Tutorials Included
 
-### Docker
-Docker is a platform for developing, shipping, and running applications in containers. The Docker tutorial can be found in the `docker` directory, with detailed instructions in its README file.
-
-### Modal
-Modal is a cloud platform for running Python applications and machine learning models. The Modal tutorial is located in the `modal` directory, with comprehensive instructions in its README file.
-
-### Runpod
-Runpod is a cloud GPU platform for running AI and machine learning workloads. The Runpod tutorial is available in the `runpod` directory, with step-by-step guidance in its README file.
+### AWS: 
+We utilized Docker containers to ensure smooth, scalable deployment in isolated environments. 🐳
+### Runpod: 
+Everything was handled directly through the Runpod app, from managing instances to running the models, keeping it efficient and straightforward! ⚡️
+### Modal: 
+On Modal, we went full-on with Python coding to deploy the models, leveraging their serverless infrastructure for easy scaling and clean code execution. 🐍
 
 ## Getting Started
 
