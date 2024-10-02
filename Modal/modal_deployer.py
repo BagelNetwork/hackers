@@ -22,7 +22,9 @@ image = (
 @app.function(
     image=image,
     gpu=gpu.T4(),
-    timeout=36000
+    timeout=36000,
+    container_idle_timeout=1200,
+    keep_warm=1
 )
 @asgi_app()
 def fastapi_app():
