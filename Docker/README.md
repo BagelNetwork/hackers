@@ -20,8 +20,8 @@ Before you begin, ensure you have the following installed:
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/yourusername/bagel_finetuning_docker_tutorial.git
-cd bagel_finetuning_docker_tutorial
+git clone git@github.com:BagelNetwork/hackers.git
+cd hackers/Docker
 ```
 
 ### 2. Configure your Model
